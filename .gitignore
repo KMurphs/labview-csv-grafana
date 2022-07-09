@@ -1,0 +1,38 @@
+# Libraries
+*.lvlibp
+*.llb
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+
+# Metadata
+*.aliases
+*.lvlps
+*.opt
+*.tso
+
+# Reports
+*.xml
+*.htm
+*.html
+
+
+.tmp/
+/.tmp/
+
+
+**/*backup*.csv
+/deployment
+/installer
+
+
+
+**/configurations-controlled/*
+
+BuildVersions.ini

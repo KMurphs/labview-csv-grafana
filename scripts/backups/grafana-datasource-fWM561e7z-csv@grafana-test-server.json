@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "uid": "fWM561e7z",
+  "orgId": 1,
+  "name": "csv@grafana-test-server",
+  "type": "marcusolsson-csv-datasource",
+  "typeLogoUrl": "",
+  "access": "proxy",
+  "url": "http://127.0.0.1:8001/grafana-test-server/data.csv",
+  "user": "",
+  "database": "",
+  "basicAuth": false,
+  "basicAuthUser": "",
+  "withCredentials": false,
+  "isDefault": true,
+  "jsonData": {
+    "storage": "http"
+  },
+  "secureJsonFields": {},
+  "version": 6,
+  "readOnly": false
+}
