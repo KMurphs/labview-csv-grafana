@@ -36,3 +36,7 @@
 **/configurations-controlled/*
 
 BuildVersions.ini
+
+
+/scripts/grafana-exports.sh
+**/data.csv
