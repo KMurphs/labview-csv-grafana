@@ -5,7 +5,7 @@
 apt-get update && apt-get install jq -y # install jq for manipulating json from cli
 
 # SOURCE VARIABLES
-export token=xxxxxxx
+export token=xxxxxxx # Grafana Token to export data sources and dashboards as JSONs
 export grafanaurl=http://localhost:8088/api
 
 
